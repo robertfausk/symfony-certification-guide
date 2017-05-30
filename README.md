@@ -40,13 +40,27 @@ https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet
 * Client / Server interaction  
 http://symfony.com/doc/3.0/book/http_fundamentals.html
 * HTTP request  
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_message
 http://symfony.com/doc/3.0/components/http_foundation/introduction.html#request
 * HTTP response  
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Response_message
 http://symfony.com/doc/3.0/components/http_foundation/introduction.html#response
 * Status codes  
 http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
-* RFC 2616
-http://www.ietf.org/rfc/rfc2616.txt
+https://tools.ietf.org/html/rfc2616#section-10
+* HTTP methods
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods
+http://www.restapitutorial.com/lessons/httpmethods.html
+* Cookies
+https://en.wikipedia.org/wiki/HTTP_cookie
+* Caching
+https://tools.ietf.org/html/rfc2616#section-13
+* Content negotiation
+https://en.wikipedia.org/wiki/Content_negotiation
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec12.html
+* Language detection
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language
 
 ---
 
