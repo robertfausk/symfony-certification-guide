@@ -257,17 +257,35 @@ http://symfony.com/doc/current/templating/debug.html
 ---
 
 #### **Forms**
-* Create forms  
-http://symfony.com/doc/3.0/book/forms.html#creating-a-simple-form
-* Handling forms  
-http://symfony.com/doc/3.0/book/forms.html#handling-form-submissions
+* Forms creation  
+http://symfony.com/doc/3.0/forms.html#creating-a-simple-form
+* Forms handling  
+http://symfony.com/doc/3.0/forms.html#handling-form-submissions
 * Form types  
-http://symfony.com/doc/3.0/book/forms.html#creating-form-classes
-http://symfony.com/doc/3.0/book/forms.html#built-in-field-types
-* Render forms with Twig  
-http://symfony.com/doc/3.0/book/forms.html#rendering-a-form-in-a-template
-* Forms security (CSRF)  
-http://symfony.com/doc/3.0/book/forms.html#csrf-protection
+http://symfony.com/doc/3.0/forms.html#creating-form-classes
+http://symfony.com/doc/3.0/forms.html#built-in-field-types
+http://symfony.com/doc/3.0/form/create_custom_field_type.html
+* Forms rendering with Twig  
+http://symfony.com/doc/3.0/forms.html#rendering-the-form
+http://symfony.com/doc/3.0/form/form_customization.html
+http://symfony.com/doc/3.0/form/rendering.html
+* Forms theming  
+http://symfony.com/doc/3.0/form/form_themes.html
+http://symfony.com/doc/3.0/form/form_customization.html#what-are-form-themes
+* CSRF protection  
+http://symfony.com/doc/3.0/form/csrf_protection.html
+* Handling file upload  
+http://symfony.com/doc/3.0/controller/upload_file.html
+http://symfony.com/doc/3.0/reference/forms/types/file.html
+* Built-in form types  
+http://symfony.com/doc/3.0/reference/forms/types.html
+* Data transformers  
+http://symfony.com/doc/3.0/form/data_transformers.html
+* Form events  
+http://symfony.com/doc/3.0/form/events.html
+http://symfony.com/doc/3.0/form/dynamic_form_modification.html
+* Form type extensions
+http://symfony.com/doc/3.0/form/create_form_type_extension.html
 
 ---
 
