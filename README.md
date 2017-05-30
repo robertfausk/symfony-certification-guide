@@ -21,17 +21,17 @@ http://www.php.net/manual/en/language.oop5.interfaces.php
 http://www.php.net/manual/en/functions.anonymous.php
 * Abstract classes  
 http://www.php.net/manual/en/language.oop5.abstract.php
-* Exception and error handling
-http://php.net/manual/en/language.exceptions.php
+* Exception and error handling  
+http://php.net/manual/en/language.exceptions.php  
 http://php.net/manual/en/language.errors.basics.php
-* Traits
+* Traits  
 http://php.net/manual/en/language.oop5.traits.php
-* PHP extensions
+* PHP extensions  
 http://php.net/manual/en/extensions.php
-* SPL
+* SPL  
 http://php.net/manual/en/book.spl.php
-* Web security (XSS, CSRF, etc.)
-http://php.net/manual/en/security.php
+* Web security (XSS, CSRF, etc.)  
+http://php.net/manual/en/security.php  
 https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet
 
 ---
@@ -40,26 +40,26 @@ https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet
 * Client / Server interaction  
 http://symfony.com/doc/3.0/book/http_fundamentals.html
 * HTTP request  
-https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_message
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_message  
 http://symfony.com/doc/3.0/components/http_foundation/introduction.html#request
 * HTTP response  
-https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Response_message
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Response_message  
 http://symfony.com/doc/3.0/components/http_foundation/introduction.html#response
 * Status codes  
-http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+http://en.wikipedia.org/wiki/List_of_HTTP_status_codes  
 https://tools.ietf.org/html/rfc2616#section-10
-* HTTP methods
-https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods
+* HTTP methods  
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods  
 http://www.restapitutorial.com/lessons/httpmethods.html
-* Cookies
+* Cookies  
 https://en.wikipedia.org/wiki/HTTP_cookie
-* Caching
+* Caching  
 https://tools.ietf.org/html/rfc2616#section-13
-* Content negotiation
-https://en.wikipedia.org/wiki/Content_negotiation
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation
+* Content negotiation  
+https://en.wikipedia.org/wiki/Content_negotiation  
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation  
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec12.html
-* Language detection
+* Language detection  
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language
 
 ---
@@ -70,59 +70,59 @@ http://symfony.com/distributions
 * Components  
 http://symfony.com/doc/3.0/components/index.html
 * Bundles  
-http://symfony.com/doc/3.0/cookbook/bundles/best_practices.html
+http://symfony.com/doc/3.0/cookbook/bundles/best_practices.html  
 http://symfony.com/doc/3.0/quick_tour/the_architecture.html#understanding-the-bundle-system
 * Bridges  
-http://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor?answertab=votes#tab-top
-http://symfony.com/doc/3.0/request/psr7.html
+http://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor?answertab=votes#tab-top  
+http://symfony.com/doc/3.0/request/psr7.html  
 http://symfony.com/doc/3.0/components/phpunit_bridge.html
 *  Configuration  
-http://symfony.com/doc/3.0/cookbook/configuration/index.html
-http://symfony.com/doc/3.0/components/config/index.html
+http://symfony.com/doc/3.0/cookbook/configuration/index.html  
+http://symfony.com/doc/3.0/components/config/index.html  
 http://symfony.com/doc/3.0/cookbook/bundles/best_practices.html#configuration  
 http://symfony.com/doc/3.0/cookbook/bundles/extension.html  
 *  Code organization  
 http://symfony.com/doc/3.0/quick_tour/the_architecture.html#understanding-the-directory-structure
 * Request handling  
-http://symfony.com/doc/3.0/book/http_fundamentals.html#the-journey-from-the-request-to-the-response
+http://symfony.com/doc/3.0/book/http_fundamentals.html#the-journey-from-the-request-to-the-response  
 http://symfony.com/doc/3.0/introduction/http_fundamentals.html
-* Exception handling
+* Exception handling  
 http://symfony.com/doc/3.0/controller/error_pages.html
-* Event dispatcher and kernel events
-http://symfony.com/doc/3.0/event_dispatcher.html
-http://symfony.com/doc/3.0/reference/events.html
-http://symfony.com/doc/3.0/create_framework/event_dispatcher.html
+* Event dispatcher and kernel events  
+http://symfony.com/doc/3.0/event_dispatcher.html  
+http://symfony.com/doc/3.0/reference/events.html  
+http://symfony.com/doc/3.0/create_framework/event_dispatcher.html  
 http://symfony.com/doc/3.0/components/event_dispatcher.html
-* Official best practices
+* Official best practices  
 http://symfony.com/doc/3.0/best_practices/index.html
-* Release management
+* Release management  
 https://symfony.com/doc/3.0/contributing/community/releases.html
-* Backward compatibility promise
+* Backward compatibility promise  
 http://symfony.com/doc/3.0/contributing/code/bc.html
-* Deprecations best practices
-http://symfony.com/doc/3.0/contributing/code/conventions.html#deprecations
+* Deprecations best practices  
+http://symfony.com/doc/3.0/contributing/code/conventions.html#deprecations  
 http://symfony.com/blog/paving-the-way-for-symfony-3-with-the-deprecation-detector-tool
 
 ---
 
 #### **Standardization**
-* Release management and roadmap schedule
+* Release management and roadmap schedule  
 https://symfony.com/doc/3.0/contributing/community/releases.html
-* Framework interoperability and PSRs
+* Framework interoperability and PSRs  
 * Naming conventions  
 http://symfony.com/doc/3.0/contributing/code/standards.html#naming-conventions
 * Coding standards  
 http://symfony.com/doc/3.0/contributing/code/standards.html
-* Third-party libraries integration 
+* Third-party libraries integration   
 http://symfony.com/doc/3.0/cookbook/bundles/installation.html
 * Composer packages handling  
-http://symfony.com/doc/3.0/book/installation.html
+http://symfony.com/doc/3.0/book/installation.html  
 https://knpuniversity.com/screencast/composer
 * Development best practices
 http://symfony.com/doc/3.0/best_practices/index.html
 * Framework overloading   
 http://symfony.com/doc/3.0/cookbook/bundles/override.html
-* Semantic versioning
+* Semantic versioning  
 http://semver.org/
 
 ---
@@ -133,19 +133,19 @@ http://symfony.com/doc/3.0/cookbook/bundles/best_practices.html#bundle-name
 * Code organization  
 http://symfony.com/doc/3.0/cookbook/bundles/best_practices.html#directory-structure
 * The controllers  
-http://symfony.com/doc/3.0/cookbook/bundles/best_practices.html#controllers
-http://symfony.com/doc/3.0/cookbook/controller/index.html
+http://symfony.com/doc/3.0/cookbook/bundles/best_practices.html#controllers  
+http://symfony.com/doc/3.0/cookbook/controller/index.html  
 http://symfony.com/doc/3.0/book/controller.html
 * The views  
 http://symfony.com/doc/3.0/quick_tour/the_view.html
 * The resources  
-* Overriding default error pages
+* Overriding default error pages  
 http://symfony.com/doc/3.0/bundles/inheritance.html#overriding-resources-templates-routing-etc
-* Bundle inheritance
+* Bundle inheritance  
 http://symfony.com/doc/3.0/bundles/inheritance.html
-* Event dispatcher and kernel events
-* Semantic configuration and compiler passes
-http://symfony.com/doc/3.0/bundles/configuration.html
+* Event dispatcher and kernel events  
+* Semantic configuration and compiler passes  
+http://symfony.com/doc/3.0/bundles/configuration.html  
 http://symfony.com/doc/3.0/bundles/extension.html
 
 ---
@@ -153,35 +153,35 @@ http://symfony.com/doc/3.0/bundles/extension.html
 #### **Controllers**
 * Naming conventions  
 http://symfony.com/doc/3.0/book/routing.html#controller-string-syntax
-* The base Controller class
+* The base Controller class  
 http://symfony.com/doc/3.0/controller.html#the-base-controller-class-services
 * The request  
-http://symfony.com/doc/3.0/book/controller.html#requests-controller-response-lifecycle
+http://symfony.com/doc/3.0/book/controller.html#requests-controller-response-lifecycle  
 http://symfony.com/doc/3.0/components/http_foundation/introduction.html#request
 * The response  
-http://symfony.com/doc/3.0/book/controller.html#requests-controller-response-lifecycle
+http://symfony.com/doc/3.0/book/controller.html#requests-controller-response-lifecycle  
 http://symfony.com/doc/3.0/components/http_foundation/introduction.html#response
 * The cookies  
 http://symfony.com/doc/3.0/components/http_foundation/introduction.html#setting-cookies
 * The session  
-http://symfony.com/doc/3.0/book/controller.html#managing-the-session
+http://symfony.com/doc/3.0/book/controller.html#managing-the-session  
 http://symfony.com/doc/3.0/components/http_foundation/sessions.html
 * The flash messages  
-http://symfony.com/doc/3.0/book/controller.html#flash-messages
+http://symfony.com/doc/3.0/book/controller.html#flash-messages  
 http://symfony.com/doc/3.0/components/http_foundation/sessions.html#flash-messages
 * Redirects  
-http://symfony.com/doc/3.0/book/controller.html#redirecting
-http://symfony.com/doc/3.0/routing/redirect_in_config.html
+http://symfony.com/doc/3.0/book/controller.html#redirecting  
+http://symfony.com/doc/3.0/routing/redirect_in_config.html  
 http://symfony.com/doc/3.0/routing/redirect_trailing_slash.html
 * Internal redirects  
-http://symfony.com/doc/3.0/controller/forwarding.html
+http://symfony.com/doc/3.0/controller/forwarding.html  
 http://symfony.com/doc/3.0/book/controller.html#forwarding-to-another-controller
 * Generate 404 pages  
-http://symfony.com/doc/3.0/book/controller.html#managing-errors-and-404-pages
+http://symfony.com/doc/3.0/book/controller.html#managing-errors-and-404-pages  
 http://symfony.com/doc/3.0/cookbook/controller/error_pages.html#customizing-the-404-page-and-other-error-pages
-* File upload
+* File upload  
 http://symfony.com/doc/3.0/controller/upload_file.html
-* Built-in internal controllers
+* Built-in internal controllers  
 http://symfony.com/doc/3.0/templating/render_without_controller.html
 
 ---
@@ -195,50 +195,50 @@ http://symfony.com/doc/3.0/book/routing.html#routing-with-placeholders
 * Set default values to URL parameters  
 http://symfony.com/doc/3.0/book/routing.html#required-and-optional-placeholders
 * Generate URL parameters  
-http://symfony.com/doc/3.0/book/routing.html#generating-urls
+http://symfony.com/doc/3.0/book/routing.html#generating-urls  
 http://symfony.com/doc/3.0/book/routing.html#generating-urls-with-query-strings
 * Trigger redirects  
-http://symfony.com/doc/master/cmf/components/routing/dynamic.html#redirections
+http://symfony.com/doc/master/cmf/components/routing/dynamic.html#redirections  
 http://symfony.com/doc/3.0/cookbook/routing/redirect_in_config.html
-* Special internal routing attributes
-https://symfony.com/doc/3.0/routing/extra_information.html
+* Special internal routing attributes  
+https://symfony.com/doc/3.0/routing/extra_information.html  
 https://symfony.com/doc/3.0/routing/external_resources.html
-* Domain name matching
+* Domain name matching  
 https://symfony.com/doc/3.0/routing/hostname_pattern.html
-* Conditional request matching
+* Conditional request matching  
 https://symfony.com/doc/3.0/routing/conditions.html
-* HTTP methods matching
+* HTTP methods matching  
 http://symfony.com/doc/3.0/routing/requirements.html#adding-http-method-requirements
-* User's locale guessing
+* User's locale guessing  
 http://symfony.com/doc/3.0/translation/locale.html#the-locale-and-the-url
-* Router debugging
-http://symfony.com/doc/3.0/routing/debug.html
+* Router debugging  
+http://symfony.com/doc/3.0/routing/debug.html  
 https://symfony.com/doc/3.0/routing.html#troubleshooting
 
 ---
 
 #### **Templating with Twig**
 * Auto escape  
-http://twig.sensiolabs.org/doc/tags/autoescape.html
+http://twig.sensiolabs.org/doc/tags/autoescape.html  
 http://symfony.com/doc/3.0/book/templating.html#output-escaping-in-twig
 * Template inheritance  
-http://twig.sensiolabs.org/doc/tags/extends.html
-http://twig.sensiolabs.org/doc/templates.html#template-inheritance
+http://twig.sensiolabs.org/doc/tags/extends.html  
+http://twig.sensiolabs.org/doc/templates.html#template-inheritance  
 http://symfony.com/doc/3.0/book/templating.html#template-inheritance-and-layouts
 * Global variables  
-http://symfony.com/doc/3.0/templating/global_variables.html
+http://symfony.com/doc/3.0/templating/global_variables.html  
 http://symfony.com/doc/3.0/templating/app_variable.html
 * Filters and functions  
-http://twig.sensiolabs.org/doc/functions/index.html
+http://twig.sensiolabs.org/doc/functions/index.html  
 http://twig.sensiolabs.org/doc/filters/index.html
 * Template includes  
 http://twig.sensiolabs.org/doc/tags/include.html
 * loops and conditions  
-http://twig.sensiolabs.org/doc/tags/for.html
-http://twig.sensiolabs.org/doc/templates.html#control-structure
+http://twig.sensiolabs.org/doc/tags/for.html  
+http://twig.sensiolabs.org/doc/templates.html#control-structure  
 https://twig.sensiolabs.org/doc/2.x/tags/if.html
 * Urls generation  
-http://symfony.com/doc/3.0/book/routing.html#generating-urls-from-a-template
+http://symfony.com/doc/3.0/book/routing.html#generating-urls-from-a-template  
 http://symfony.com/doc/3.0/book/templating.html#linking-to-pages
 * Controller rendering  
 http://symfony.com/doc/3.0/controller.html#rendering-templates
@@ -249,7 +249,7 @@ http://symfony.com/doc/3.0/translation.html#translations-in-templates
 * String interpolation  
 https://twig.sensiolabs.org/doc/2.x/templates.html#string-interpolation
 * Assets management  
-https://symfony.com/doc/3.0/assetic/asset_management.html
+https://symfony.com/doc/3.0/assetic/asset_management.html  
 http://symfony.com/doc/current/templating.html#linking-to-assets
 * Debugging variables  
 http://symfony.com/doc/current/templating/debug.html
@@ -262,41 +262,50 @@ http://symfony.com/doc/3.0/forms.html#creating-a-simple-form
 * Forms handling  
 http://symfony.com/doc/3.0/forms.html#handling-form-submissions
 * Form types  
-http://symfony.com/doc/3.0/forms.html#creating-form-classes
-http://symfony.com/doc/3.0/forms.html#built-in-field-types
+http://symfony.com/doc/3.0/forms.html#creating-form-classes  
+http://symfony.com/doc/3.0/forms.html#built-in-field-types  
 http://symfony.com/doc/3.0/form/create_custom_field_type.html
 * Forms rendering with Twig  
-http://symfony.com/doc/3.0/forms.html#rendering-the-form
-http://symfony.com/doc/3.0/form/form_customization.html
+http://symfony.com/doc/3.0/forms.html#rendering-the-form  
+http://symfony.com/doc/3.0/form/form_customization.html  
 http://symfony.com/doc/3.0/form/rendering.html
 * Forms theming  
-http://symfony.com/doc/3.0/form/form_themes.html
+http://symfony.com/doc/3.0/form/form_themes.html  
 http://symfony.com/doc/3.0/form/form_customization.html#what-are-form-themes
 * CSRF protection  
 http://symfony.com/doc/3.0/form/csrf_protection.html
 * Handling file upload  
-http://symfony.com/doc/3.0/controller/upload_file.html
+http://symfony.com/doc/3.0/controller/upload_file.html  
 http://symfony.com/doc/3.0/reference/forms/types/file.html
 * Built-in form types  
 http://symfony.com/doc/3.0/reference/forms/types.html
 * Data transformers  
 http://symfony.com/doc/3.0/form/data_transformers.html
 * Form events  
-http://symfony.com/doc/3.0/form/events.html
+http://symfony.com/doc/3.0/form/events.html  
 http://symfony.com/doc/3.0/form/dynamic_form_modification.html
-* Form type extensions
+* Form type extensions  
 http://symfony.com/doc/3.0/form/create_form_type_extension.html
 
 ---
 
-#### **Validation**
-* Validate a PHP object  
-http://symfony.com/doc/3.0/book/validation.html#the-basics-of-validation
-* Native validation rules  
-http://symfony.com/doc/3.0/book/validation.html#constraints
+#### **Data Validation**
+* PHP object validation  
+http://symfony.com/doc/3.0/validation.html#the-basics-of-validation
+* Built-in validation constraints  
+http://symfony.com/doc/3.0/validation.html#constraints  
+http://symfony.com/doc/3.0/reference/constraints.html
 * Validation scopes  
+http://symfony.com/doc/3.0/validation/custom_constraint.html
 * Validation groups  
-http://symfony.com/doc/3.0/book/validation.html#validation-groups
+http://symfony.com/doc/3.0/validation/group_service_resolver.html  
+http://symfony.com/doc/3.0/validation/sequence_provider.html
+* Group sequence  
+http://symfony.com/doc/3.0/validation/sequence_provider.html
+* Custom callback validators  
+http://symfony.com/doc/3.0/reference/constraints/Callback.html
+* Violations builder  
+http://symfony.com/doc/3.0/validation/custom_constraint.html
 
 ---
 
