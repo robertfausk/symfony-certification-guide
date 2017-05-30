@@ -77,7 +77,6 @@ http://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and
 http://symfony.com/doc/3.0/request/psr7.html
 http://symfony.com/doc/3.0/components/phpunit_bridge.html
 *  Configuration  
-http://symfony.com/doc/3.0/quick_tour/the_architecture.html#configuring-a-bundle  
 http://symfony.com/doc/3.0/cookbook/configuration/index.html
 http://symfony.com/doc/3.0/components/config/index.html
 http://symfony.com/doc/3.0/cookbook/bundles/best_practices.html#configuration  
@@ -86,12 +85,28 @@ http://symfony.com/doc/3.0/cookbook/bundles/extension.html
 http://symfony.com/doc/3.0/quick_tour/the_architecture.html#understanding-the-directory-structure
 * Request handling  
 http://symfony.com/doc/3.0/book/http_fundamentals.html#the-journey-from-the-request-to-the-response
+http://symfony.com/doc/3.0/introduction/http_fundamentals.html
+* Exception handling
+http://symfony.com/doc/3.0/controller/error_pages.html
+* Event dispatcher and kernel events
+http://symfony.com/doc/3.0/event_dispatcher.html
+http://symfony.com/doc/3.0/reference/events.html
+http://symfony.com/doc/3.0/create_framework/event_dispatcher.html
+http://symfony.com/doc/3.0/components/event_dispatcher.html
+* Official best practices
+http://symfony.com/doc/3.0/best_practices/index.html
+* Release management
+https://symfony.com/doc/3.0/contributing/community/releases.html
+* Backward compatibility promise
+http://symfony.com/doc/3.0/contributing/code/bc.html
+* Deprecations best practices
+http://symfony.com/doc/3.0/contributing/code/conventions.html#deprecations
 
 ---
 
 #### **Standardization**
 * Release management and roadmap schedule
-https://symfony.com/doc/2.3/contributing/community/releases.html
+https://symfony.com/doc/3.0/contributing/community/releases.html
 * Framework interoperability and PSRs
 * Naming conventions  
 http://symfony.com/doc/3.0/contributing/code/standards.html#naming-conventions
