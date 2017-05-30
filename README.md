@@ -63,20 +63,22 @@ http://symfony.com/doc/3.0/book/http_fundamentals.html#the-journey-from-the-requ
 
 ---
 
-#### **Standardisation**
+#### **Standardization**
+* Release management and roadmap schedule
+https://symfony.com/doc/2.3/contributing/community/releases.html
+* Framework interoperability and PSRs
 * Naming conventions  
 http://symfony.com/doc/3.0/contributing/code/standards.html#naming-conventions
 * Coding standards  
 http://symfony.com/doc/3.0/contributing/code/standards.html
-* Integration of third-party libraries  
+* Third-party libraries integration 
 http://symfony.com/doc/3.0/cookbook/bundles/installation.html
 * Composer packages handling  
 http://symfony.com/doc/3.0/book/installation.html
 https://knpuniversity.com/screencast/composer
 * Development best practices
 http://symfony.com/doc/3.0/best_practices/index.html
-
-* Override the framework  
+* Framework overloading   
 http://symfony.com/doc/3.0/cookbook/bundles/override.html
 
 ---
