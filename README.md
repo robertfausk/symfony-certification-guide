@@ -121,6 +121,8 @@ https://knpuniversity.com/screencast/composer
 http://symfony.com/doc/3.0/best_practices/index.html
 * Framework overloading   
 http://symfony.com/doc/3.0/cookbook/bundles/override.html
+* Semantic versioning
+http://semver.org/
 
 ---
 
