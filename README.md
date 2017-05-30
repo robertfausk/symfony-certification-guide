@@ -310,20 +310,28 @@ http://symfony.com/doc/3.0/validation/custom_constraint.html
 ---
 
 #### **Dependency Injection**
-* The Service container  
-http://symfony.com/doc/3.0/book/service_container.html
-* Global configuration parameters
-http://symfony.com/doc/3.0/components/dependency_injection/parameters.html
-http://symfony.com/doc/3.0/components/dependency_injection/introduction.html#setting-up-the-container-with-configuration-files
-* Symfony2 services  
-http://symfony.com/doc/3.0/book/service_container.html#what-is-a-service
-* Register new services  
-http://symfony.com/doc/3.0/book/service_container.html#creating-configuring-services-in-the-container
+* Service container  
+http://symfony.com/doc/3.0/service_container.html
+* Built-in services  
+http://symfony.com/doc/3.0/controller/service.html
+* Configuration parameters  
+http://symfony.com/doc/3.0/service_container/parameters.html  
+http://symfony.com/doc/3.0/service_container/shared.html
+* Services registration  
+http://symfony.com/doc/3.0/service_container.html#creating-configuring-services-in-the-container
 * Tags  
-http://symfony.com/doc/3.0/book/service_container.html#tags
+http://symfony.com/doc/3.0/service_container/tags.html  
 http://symfony.com/doc/3.0/reference/dic_tags.html
 * Semantic configuration  
-http://symfony.com/doc/3.0/cookbook/bundles/extension.html
+http://symfony.com/doc/3.0/service_container/alias_private.html
+* Factories  
+http://symfony.com/doc/3.0/service_container/factories.html
+* Compiler passes  
+http://symfony.com/doc/3.0/service_container/compiler_passes.html
+* Services autowiring  
+https://symfony.com/doc/2.8/service_container/autowiring.html  
+https://symfony.com/doc/3.0/components/dependency_injection/autowiring.html  
+https://knpuniversity.com/screencast/new-in-symfony3/autowiring
 
 ---
 
