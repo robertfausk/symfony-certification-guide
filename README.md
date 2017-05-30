@@ -21,6 +21,18 @@ http://www.php.net/manual/en/language.oop5.interfaces.php
 http://www.php.net/manual/en/functions.anonymous.php
 * Abstract classes  
 http://www.php.net/manual/en/language.oop5.abstract.php
+* Exception and error handling
+http://php.net/manual/en/language.exceptions.php
+http://php.net/manual/en/language.errors.basics.php
+* Traits
+http://php.net/manual/en/language.oop5.traits.php
+* PHP extensions
+http://php.net/manual/en/extensions.php
+* SPL
+http://php.net/manual/en/book.spl.php
+* Web security (XSS, CSRF, etc.)
+http://php.net/manual/en/security.php
+https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet
 
 ---
 
