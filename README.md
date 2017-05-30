@@ -138,6 +138,14 @@ http://symfony.com/doc/3.0/book/controller.html
 * The views  
 http://symfony.com/doc/3.0/quick_tour/the_view.html
 * The resources  
+* Overriding default error pages
+http://symfony.com/doc/3.0/bundles/inheritance.html#overriding-resources-templates-routing-etc
+* Bundle inheritance
+http://symfony.com/doc/3.0/bundles/inheritance.html
+* Event dispatcher and kernel events
+* Semantic configuration and compiler passes
+http://symfony.com/doc/3.0/bundles/configuration.html
+http://symfony.com/doc/3.0/bundles/extension.html
 
 ---
 
