@@ -182,6 +182,7 @@ http://symfony.com/doc/3.0/cookbook/controller/error_pages.html#customizing-the-
 * File upload
 http://symfony.com/doc/3.0/controller/upload_file.html
 * Built-in internal controllers
+http://symfony.com/doc/3.0/templating/render_without_controller.html
 
 ---
 
@@ -224,22 +225,34 @@ http://symfony.com/doc/3.0/book/templating.html#output-escaping-in-twig
 http://twig.sensiolabs.org/doc/tags/extends.html
 http://twig.sensiolabs.org/doc/templates.html#template-inheritance
 http://symfony.com/doc/3.0/book/templating.html#template-inheritance-and-layouts
-* Global functions  
+* Global variables  
+http://symfony.com/doc/3.0/templating/global_variables.html
+http://symfony.com/doc/3.0/templating/app_variable.html
+* Filters and functions  
 http://twig.sensiolabs.org/doc/functions/index.html
-* Filters  
 http://twig.sensiolabs.org/doc/filters/index.html
 * Template includes  
 http://twig.sensiolabs.org/doc/tags/include.html
-* Control statements (loops and conditions)  
+* loops and conditions  
 http://twig.sensiolabs.org/doc/tags/for.html
 http://twig.sensiolabs.org/doc/templates.html#control-structure
+https://twig.sensiolabs.org/doc/2.x/tags/if.html
 * Urls generation  
 http://symfony.com/doc/3.0/book/routing.html#generating-urls-from-a-template
 http://symfony.com/doc/3.0/book/templating.html#linking-to-pages
+* Controller rendering  
+http://symfony.com/doc/3.0/controller.html#rendering-templates
 * Call a controller from a view  
-http://symfony.com/doc/3.0/book/templating.html#embedding-controllers
-* Translations  
-http://symfony.com/doc/3.0/book/translation.html#translations-in-templates
+https://symfony.com/doc/3.0/templating/embedding_controllers.html
+* Translations and pluralization  
+http://symfony.com/doc/3.0/translation.html#translations-in-templates
+* String interpolation  
+https://twig.sensiolabs.org/doc/2.x/templates.html#string-interpolation
+* Assets management  
+https://symfony.com/doc/3.0/assetic/asset_management.html
+http://symfony.com/doc/current/templating.html#linking-to-assets
+* Debugging variables  
+http://symfony.com/doc/current/templating/debug.html
 
 ---
 
