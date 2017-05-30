@@ -9,7 +9,7 @@ Feel free to fork and send a PR.
 
 ### **Topics**
 ---
-#### **PHP**
+#### **PHP and Web Security**
 * Object Oriented Programming  
 http://www.php.net/manual/en/oop5.intro.php
 * Namespaces  
@@ -64,7 +64,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language
 
 ---
 
-#### **Symfony2 Architecture**
+#### **Symfony Architecture**
 * Standard edition of Symfony2  
 http://symfony.com/distributions
 * Components  
@@ -127,7 +127,7 @@ http://semver.org/
 
 ---
 
-#### **The Bundles**
+#### **Bundles**
 * Naming conventions  
 http://symfony.com/doc/3.0/cookbook/bundles/best_practices.html#bundle-name
 * Code organization  
@@ -150,7 +150,7 @@ http://symfony.com/doc/3.0/bundles/extension.html
 
 ---
 
-#### **The controllers**
+#### **Controllers**
 * Naming conventions  
 http://symfony.com/doc/3.0/book/routing.html#controller-string-syntax
 * The base Controller class
@@ -185,7 +185,8 @@ http://symfony.com/doc/3.0/controller/upload_file.html
 
 ---
 
-#### **The Routing**
+#### **Routing**
+http://symfony.com/doc/3.0/components/routing.html
 * Configuration (YAML / XML / PHP & annotations)  
 http://symfony.com/doc/3.0/book/routing.html#basic-route-configuration
 * Restrict URL parameters  
@@ -195,9 +196,23 @@ http://symfony.com/doc/3.0/book/routing.html#required-and-optional-placeholders
 * Generate URL parameters  
 http://symfony.com/doc/3.0/book/routing.html#generating-urls
 http://symfony.com/doc/3.0/book/routing.html#generating-urls-with-query-strings
-* Trigger redirections  
+* Trigger redirects  
 http://symfony.com/doc/master/cmf/components/routing/dynamic.html#redirections
 http://symfony.com/doc/3.0/cookbook/routing/redirect_in_config.html
+* Special internal routing attributes
+https://symfony.com/doc/3.0/routing/extra_information.html
+https://symfony.com/doc/3.0/routing/external_resources.html
+* Domain name matching
+https://symfony.com/doc/3.0/routing/hostname_pattern.html
+* Conditional request matching
+https://symfony.com/doc/3.0/routing/conditions.html
+* HTTP methods matching
+http://symfony.com/doc/3.0/routing/requirements.html#adding-http-method-requirements
+* User's locale guessing
+http://symfony.com/doc/3.0/translation/locale.html#the-locale-and-the-url
+* Router debugging
+http://symfony.com/doc/3.0/routing/debug.html
+https://symfony.com/doc/3.0/routing.html#troubleshooting
 
 ---
 
