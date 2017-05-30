@@ -101,6 +101,7 @@ https://symfony.com/doc/3.0/contributing/community/releases.html
 http://symfony.com/doc/3.0/contributing/code/bc.html
 * Deprecations best practices
 http://symfony.com/doc/3.0/contributing/code/conventions.html#deprecations
+http://symfony.com/blog/paving-the-way-for-symfony-3-with-the-deprecation-detector-tool
 
 ---
 
@@ -152,10 +153,12 @@ http://symfony.com/doc/3.0/bundles/extension.html
 #### **The controllers**
 * Naming conventions  
 http://symfony.com/doc/3.0/book/routing.html#controller-string-syntax
-* Get the request  
+* The base Controller class
+http://symfony.com/doc/3.0/controller.html#the-base-controller-class-services
+* The request  
 http://symfony.com/doc/3.0/book/controller.html#requests-controller-response-lifecycle
 http://symfony.com/doc/3.0/components/http_foundation/introduction.html#request
-* Generate the response  
+* The response  
 http://symfony.com/doc/3.0/book/controller.html#requests-controller-response-lifecycle
 http://symfony.com/doc/3.0/components/http_foundation/introduction.html#response
 * The cookies  
@@ -163,16 +166,22 @@ http://symfony.com/doc/3.0/components/http_foundation/introduction.html#setting-
 * The session  
 http://symfony.com/doc/3.0/book/controller.html#managing-the-session
 http://symfony.com/doc/3.0/components/http_foundation/sessions.html
-* Session flashbag  
+* The flash messages  
 http://symfony.com/doc/3.0/book/controller.html#flash-messages
 http://symfony.com/doc/3.0/components/http_foundation/sessions.html#flash-messages
 * Redirects  
 http://symfony.com/doc/3.0/book/controller.html#redirecting
+http://symfony.com/doc/3.0/routing/redirect_in_config.html
+http://symfony.com/doc/3.0/routing/redirect_trailing_slash.html
 * Internal redirects  
+http://symfony.com/doc/3.0/controller/forwarding.html
 http://symfony.com/doc/3.0/book/controller.html#forwarding-to-another-controller
 * Generate 404 pages  
 http://symfony.com/doc/3.0/book/controller.html#managing-errors-and-404-pages
 http://symfony.com/doc/3.0/cookbook/controller/error_pages.html#customizing-the-404-page-and-other-error-pages
+* File upload
+http://symfony.com/doc/3.0/controller/upload_file.html
+* Built-in internal controllers
 
 ---
 
