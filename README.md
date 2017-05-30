@@ -337,28 +337,51 @@ https://knpuniversity.com/screencast/new-in-symfony3/autowiring
 
 #### **Security**
 * Authentication  
-http://symfony.com/doc/3.0/components/security/authentication.html
-http://symfony.com/doc/3.0/book/security.html#how-security-works-authentication-and-authorization
+http://symfony.com/doc/3.0/components/security/authentication.html  
+http://symfony.com/doc/3.0/security.html#initial-security-yml-setup-authentication  
+http://symfony.com/doc/3.0/security.html#authentication-identifying-logging-in-the-user
 * Authorization  
-http://symfony.com/doc/3.0/components/security/authorization.html
-http://symfony.com/doc/3.0/book/security.html#authorization
+http://symfony.com/doc/3.0/components/security/authorization.html  
+http://symfony.com/doc/3.0/security.html#denying-access-roles-and-other-authorization  
+http://symfony.com/doc/3.0/security.html#authorization-denying-access
 * Configuration  
 http://symfony.com/doc/3.0/reference/configuration/security.html
 * Providers  
-http://symfony.com/doc/3.0/book/security.html#where-do-users-come-from-user-providers
+http://symfony.com/doc/3.0/security.html#security-user-providers  
+http://symfony.com/doc/3.0/security/custom_provider.html  
+http://symfony.com/doc/3.0/security/entity_provider.html  
+http://symfony.com/doc/3.0/security/custom_authentication_provider.html  
+http://symfony.com/doc/3.0/security/multiple_user_providers.html
 * Firewalls  
-http://symfony.com/doc/3.0/book/security.html#firewalls-authentication
+http://symfony.com/doc/3.0/security.html#a-configuring-how-your-users-will-authenticate  
+http://symfony.com/doc/3.0/security/pre_authenticated.html  
+http://symfony.com/doc/3.0/security/firewall_restriction.html  
 http://symfony.com/doc/3.0/components/security/firewall.html
 * Users  
-http://symfony.com/doc/3.0/book/security.html#users
-* Encoders  
-http://symfony.com/doc/3.0/book/security.html#encoding-the-user-s-password
+http://symfony.com/doc/3.0/security.html#b-configuring-how-users-are-loaded  
+http://symfony.com/doc/3.0/security/api_key_authentication.html  
+http://symfony.com/doc/3.0/security/entity_provider.html  
+http://symfony.com/doc/3.0/security/custom_provider.html
+* Passwords encoders  
+http://symfony.com/doc/3.0/security.html#c-encoding-the-user-s-password  
+http://symfony.com/doc/3.0/security/password_encoding.html  
+http://symfony.com/doc/3.0/security/named_encoders.html
 * Roles  
+http://symfony.com/doc/3.0/security.html#roles  
+http://symfony.com/doc/3.0/security.html#hierarchical-roles  
 http://symfony.com/doc/3.0/components/security/authorization.html#roles
-http://symfony.com/doc/3.0/book/security.html#roles
 * Access Control Rules  
-http://symfony.com/doc/3.0/book/security.html#access-control-in-templates
-http://symfony.com/doc/3.0/book/security.html#access-control-in-controllers
+http://symfony.com/doc/3.0/security.html#access-control-in-templates  
+http://symfony.com/doc/3.0/security.html#access-control-lists-acls-securing-individual-database-objects  
+http://symfony.com/doc/3.0/expressions.html#expressions-security  
+http://symfony.com/doc/3.0/security/acl.html
+* Guard authenticators  
+http://symfony.com/doc/3.0/security/guard_authentication.html  
+http://symfony.com/blog/new-in-symfony-2-8-guard-authentication-component  
+http://symfony.com/doc/3.0/security/multiple_guard_authenticators.html
+* Voters and voting strategies  
+http://symfony.com/doc/3.0/security/voters.html  
+http://symfony.com/doc/3.0/components/security/authorization.html#voters
 
 ---
 
