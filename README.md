@@ -48,6 +48,8 @@ http://symfony.com/doc/3.0/cookbook/bundles/best_practices.html
 http://symfony.com/doc/3.0/quick_tour/the_architecture.html#understanding-the-bundle-system
 * Bridges  
 http://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor?answertab=votes#tab-top
+http://symfony.com/doc/3.0/request/psr7.html
+http://symfony.com/doc/3.0/components/phpunit_bridge.html
 *  Configuration  
 http://symfony.com/doc/3.0/quick_tour/the_architecture.html#configuring-a-bundle  
 http://symfony.com/doc/3.0/cookbook/configuration/index.html
