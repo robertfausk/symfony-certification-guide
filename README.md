@@ -406,11 +406,13 @@ http://symfony.com/doc/3.0/http_cache/varnish.html
 * Built-in commands  
 https://symfony.com/doc/3.0/components/console/usage.html#built-in-commands
 * Custom commands  
-http://symfony.com/doc/3.0/console.html
+http://symfony.com/doc/3.0/console.html  
+http://symfony.com/doc/3.0/components/console/changing_default_command.html
 * Configuration  
 http://symfony.com/doc/3.0/console/commands_as_services.html
 * Options and arguments  
-http://symfony.com/doc/3.0/console/input.html
+http://symfony.com/doc/3.0/console/input.html  
+http://symfony.com/doc/3.0/components/console/console_arguments.html
 * Input and Output objects  
 http://symfony.com/doc/3.0/console/command_in_controller.html  
 http://symfony.com/doc/3.0/console/coloring.html
@@ -423,28 +425,41 @@ http://symfony.com/doc/3.0/components/console/helpers/table.html
 * Console events  
 http://symfony.com/doc/3.0/components/console/events.html
 * Verbosity levels  
-http://symfony.com/doc/3.0/console/verbosity.html
+http://symfony.com/doc/3.0/console/verbosity.html  
+http://symfony.com/doc/3.0/logging/monolog_console.html
 
 ---
 
-#### **Automated tests**
+#### **Automated Tests**
 * Unit tests with PHPUnit  
-http://symfony.com/doc/3.0/book/testing.html#the-phpunit-testing-framework
-* Functional tests  
-http://symfony.com/doc/3.0/book/testing.html#functional-tests
-* The Client object  
-http://symfony.com/doc/3.0/book/testing.html#working-with-the-test-client
-* The Crawler object  
-http://symfony.com/doc/3.0/book/testing.html#the-crawler
-* The Profile object  
-http://symfony.com/doc/3.0/book/testing.html#accessing-the-profiler-data
-http://symfony.com/doc/3.0/cookbook/testing/profiling.html
-* Access framework objects  
-http://symfony.com/doc/3.0/book/testing.html#accessing-internal-objects
+http://symfony.com/doc/3.0/testing.html#unit-tests  
+http://symfony.com/doc/3.0/best_practices/tests.html
+* Functional tests with PHPUnit  
+http://symfony.com/doc/3.0/testing.html#functional-tests
+* Client object  
+http://symfony.com/doc/3.0/testing.html#working-with-the-test-client
+* Crawler object  
+http://symfony.com/doc/3.0/testing.html#the-crawler
+* Profile object  
+http://symfony.com/doc/3.0/testing.html#accessing-the-profiler-data  
+http://symfony.com/doc/3.0/testing/profiling.html  
+http://symfony.com/doc/3.0/profiler.html
+* Framework access objects  
+http://symfony.com/doc/3.0/book/testing.html#accessing-internal-objects  
 http://symfony.com/doc/3.0/book/testing.html#accessing-the-container
-* Configure the client  
-* Introspect the request and response  
-http://symfony.com/doc/3.0/book/testing.html#accessing-internal-objects
+* Client configuration  
+http://symfony.com/doc/3.0/testing.html#testing-configuration  
+http://symfony.com/doc/3.0/testing/http_authentication.html  
+http://symfony.com/doc/3.0/testing/doctrine.html
+* Request and response objects introspection  
+http://symfony.com/doc/3.0/testing.html#accessing-internal-objects
+* PHPUnit bridge  
+http://symfony.com/doc/3.0/components/phpunit_bridge.html  
+http://symfony.com/blog/new-in-symfony-2-7-phpunit-bridge
+* Handling legacy deprecated code  
+http://symfony.com/doc/3.0/components/phpunit_bridge.html#trigger-deprecation-notices  
+http://symfony.com/doc/current/components/phpunit_bridge.html#mark-tests-as-legacy
+
 
 ---
 
