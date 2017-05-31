@@ -465,9 +465,23 @@ http://symfony.com/doc/current/components/phpunit_bridge.html#mark-tests-as-lega
 
 #### **Miscellaneous**
 * Error handling  
-http://symfony.com/doc/3.0/cookbook/controller/error_pages.html
-* Debug the code  
-http://symfony.com/doc/3.0/cookbook/debugging.html
+http://symfony.com/doc/3.0/controller/error_pages.html
+* Code debugging  
+http://symfony.com/doc/3.0/debug/debugging.html
+* Deployment best practices  
+http://symfony.com/doc/3.0/deployment.html
+* Process and Serializer components  
+https://symfony.com/doc/3.0/components/process.html
+http://symfony.com/doc/3.0/components/serializer.html  
+https://symfony.com/doc/3.0/serializer.html
+* Data collectors  
+http://symfony.com/doc/3.0/profiler/data_collector.html
+* Web Profiler and Web Debug Toolbar  
+http://symfony.com/doc/3.0/reference/configuration/web_profiler.html  
+http://symfony.com/blog/new-in-symfony-2-8-redesigned-web-debug-toolbar
+* Internationalization and localization  
+http://symfony.com/doc/3.0/translation.html  
+http://symfony.com/doc/3.0/best_practices/i18n.html
 
 ### **Resources**
 ---
