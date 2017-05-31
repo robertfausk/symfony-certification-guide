@@ -402,17 +402,28 @@ http://symfony.com/doc/3.0/http_cache/varnish.html
 
 ---
 
-#### **The command line**
-* Symfony2 commands  
-http://symfony.com/doc/3.0/components/console/usage.html#built-in-commands
+#### **Console**
+* Built-in commands  
+https://symfony.com/doc/3.0/components/console/usage.html#built-in-commands
 * Custom commands  
-http://symfony.com/doc/3.0/components/console/introduction.html#creating-a-basic-command  
-http://symfony.com/doc/3.0/cookbook/console/console_command.html
+http://symfony.com/doc/3.0/console.html
 * Configuration  
+http://symfony.com/doc/3.0/console/commands_as_services.html
 * Options and arguments  
-http://symfony.com/doc/3.0/components/console/introduction.html#using-command-options  
-http://symfony.com/doc/3.0/components/console/introduction.html#using-command-arguments
-* Read the entry and write the output  
+http://symfony.com/doc/3.0/console/input.html
+* Input and Output objects  
+http://symfony.com/doc/3.0/console/command_in_controller.html  
+http://symfony.com/doc/3.0/console/coloring.html
+* Built-in helpers  
+http://symfony.com/doc/3.0/components/console/helpers/index.html  
+http://symfony.com/doc/3.0/components/console/helpers/questionhelper.html  
+http://symfony.com/doc/3.0/components/console/helpers/formatterhelper.html  
+http://symfony.com/doc/3.0/components/console/helpers/progressbar.html  
+http://symfony.com/doc/3.0/components/console/helpers/table.html
+* Console events  
+http://symfony.com/doc/3.0/components/console/events.html
+* Verbosity levels  
+http://symfony.com/doc/3.0/console/verbosity.html
 
 ---
 
