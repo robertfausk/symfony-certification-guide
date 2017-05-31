@@ -386,16 +386,19 @@ http://symfony.com/doc/3.0/components/security/authorization.html#voters
 ---
 
 #### **HTTP Cache**
-* Cache types (browser, proxies and reverse proxies)  
-http://symfony.com/doc/3.0/book/http_cache.html#types-of-caches
-* Expiration (Expires, Cache-control)  
-http://symfony.com/doc/3.0/book/http_cache.html#expiration
+* Cache types (browser, proxies and reverse-proxies)  
+http://symfony.com/doc/3.0/http_cache.html
+* Expiration (Expires, Cache-Control)  
+http://symfony.com/doc/3.0/http_cache.html#expiration-caching
 * Validation (ETag, Last-Modified)  
-http://symfony.com/doc/3.0/book/http_cache.html#validation
-* Client cache  
-* Server cache  
+http://symfony.com/doc/3.0/http_cache/validation.html  
+http://symfony.com/doc/3.0/http_cache.html#validation-caching
+* Client side caching  
+* Server side caching  
 * Edge Side Includes  
-http://symfony.com/doc/3.0/book/http_cache.html#using-edge-side-includes
+http://symfony.com/doc/3.0/http_cache/esi.html  
+http://symfony.com/doc/3.0/http_cache.html#using-edge-side-includes  
+http://symfony.com/doc/3.0/http_cache/varnish.html
 
 ---
 
