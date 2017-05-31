@@ -486,14 +486,16 @@ http://symfony.com/doc/3.0/best_practices/i18n.html
 ### **Resources**
 ---
 #### **Documentation**
-* The Symfony Book  
-http://symfony.com/doc/3.0/book/index.html
-* The Symfony Cookbook  
-http://symfony.com/doc/3.0/cookbook/index.html
-* The Symfony Book Spanish  
-http://librosweb.es/symfony_2_3/  
-The Symfony Glossary  
-http://symfony.com/doc/3.0/glossary.html
+* Symfony Documentation  
+http://symfony.com/doc/3.0/index.html
+* Symfony Components  
+http://symfony.com/doc/current/components/index.html
+* Symfony Best Practices  
+http://symfony.com/doc/current/best_practices/index.html
+* Symfony Bundles  
+http://symfony.com/doc/bundles/
+* Symfony Reference  
+http://symfony.com/doc/current/reference/index.html
 
 ---
 
@@ -508,11 +510,11 @@ https://leanpub.com/un-ano-con-symfony
 http://www.packtpub.com/extending-symfony-2-web-application-framework/book  
 * Testing para Aplicaciones Symfony2 Spanish  
 https://leanpub.com/testingsymfony2  
-* Symfony Enterprise Applications
+* Symfony Enterprise Applications  
 https://leanpub.com/symfony-enterprise-applications
-* Extending Symfony2 Web Application Framework
+* Extending Symfony2 Web Application Framework (for Symfony 2.3 LTS)  
 https://www.packtpub.com/web-development/extending-symfony2-web-application-framework
-* Symfony Certification. Unofficial self-study guide  
+* Symfony Certification. Unofficial self-study guide (for Symfony 2.3 LTS)  
 https://leanpub.com/symfony-selfstudy
 
 ---
@@ -520,15 +522,12 @@ https://leanpub.com/symfony-selfstudy
 #### **Other**
 * KNP University - PHP and Symfony Tutorial Screencasts  
 http://knpuniversity.com/
+* Code Review Videos  
+https://codereviewvideos.com/courses
 * SymfonyBricks  
 https://symfonybricks.com/
-* Symfony2 cheat sheet  
-http://www.symfony2cheatsheet.com/
-* Symfony2 Tutorials  
-http://www.screenfony.com/
 * Symfony2 deployment checklist  
 http://www.symfony2-checklist.com/
 * A Symfony Console CLI tool to train on Symfony certification  
 https://github.com/certificationy/certificationy-cli  
-* A Symfony Web Platform tool to train on Symfony certification  
-http://www.certificationy.com/
+
